@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\DataGrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8770EF9-E5ED-497D-BD6F-AB7FF54621A1}|DataGrid\\DataGrid.csproj|c:\\users\\giolga\\desktop\\dotnet1\\datagrid\\datagrid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8770EF9-E5ED-497D-BD6F-AB7FF54621A1}|DataGrid\\DataGrid.csproj|solutionrelative:datagrid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8770EF9-E5ED-497D-BD6F-AB7FF54621A1}|DataGrid\\DataGrid.csproj|C:\\Users\\GioLGA\\Desktop\\DotNet1\\DataGrid\\datagrid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8770EF9-E5ED-497D-BD6F-AB7FF54621A1}|DataGrid\\DataGrid.csproj|solutionrelative:datagrid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\DataGrid\\DataGrid\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DataGrid\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\DataGrid\\DataGrid\\MainWindow.xaml",
+              "RelativeToolTip": "DataGrid\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T19:48:04.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\DataGrid\\DataGrid\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataGrid\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\DataGrid\\DataGrid\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DataGrid\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:48:03.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
